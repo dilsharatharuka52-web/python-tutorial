@@ -1,0 +1,41 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C8A4-ACBA
+
+ Directory of C:\Users\Tharuka\Desktop\Python
+
+11/05/2026  07:19 PM    <DIR>          .
+11/05/2026  07:19 PM    <DIR>          ..
+11/05/2026  05:03 PM    <DIR>          .vscode
+11/05/2026  06:35 PM               708 adder_argparse.py
+10/28/2026  09:32 AM                 0 api.py
+10/22/2026  06:04 PM               146 cal.py
+10/27/2026  07:06 PM               189 classes_object.py
+10/26/2026  03:41 PM               499 condtionalStatemants.py
+10/22/2026  05:55 PM             1,719 day_1.py
+10/26/2026  03:49 PM               327 Dictionary.py
+10/27/2026  04:54 PM               139 emp.txt
+11/05/2026  05:23 PM    <DIR>          env
+10/28/2026  02:33 PM                23 env.py
+10/26/2026  06:16 PM                 1 file_reading.py
+10/26/2026  05:31 PM               114 for_loop.py
+10/23/2026  09:53 AM               414 fun.py
+10/26/2026  04:20 PM               272 guseengame.py
+10/27/2026  04:54 PM                 0 index.html
+10/22/2026  06:34 PM               740 list.py
+10/26/2026  05:50 PM               193 list_nestedloop.py
+10/27/2026  05:00 PM                51 modulesandpip.py
+11/05/2026  07:19 PM                 0 output.txt
+10/28/2026  09:05 AM             5,138 python_virtual_environment.txt
+10/27/2026  04:42 PM               153 Read.py
+11/05/2026  04:30 PM                 0 ssh
+10/27/2026  07:01 PM               374 student.py
+11/05/2026  07:19 PM               206 sub_process.py
+11/05/2026  12:15 AM    <DIR>          system_infor_project
+10/27/2026  04:59 PM                45 test_module.py
+10/26/2026  06:08 PM                95 try_except.py
+10/22/2026  06:39 PM               127 Tuples.py
+11/05/2026  05:28 PM    <DIR>          wather
+10/26/2026  04:02 PM                70 whil_loop.py
+10/27/2026  04:54 PM               185 writing_file.py
+              28 File(s)         11,928 bytes
+               6 Dir(s)  158,630,363,136 bytes free

@@ -1,0 +1,8 @@
+jum - Salesman
+Dwight - Salesman
+Pam - Receptionist
+Michael - Manager
+Oscar - AccountantDin - kipnap
+Din - kipnap
+Din - kipnap
+Din - kipnap
